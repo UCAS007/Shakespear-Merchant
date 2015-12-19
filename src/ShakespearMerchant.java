@@ -4,15 +4,17 @@ public class ShakespearMerchant {
 		System.out.println("hello lucence");
 	}
 	
-	public static void index(){
-		
+	public void index(){
+		IndexClass indexClass=new IndexClass();
+		indexClass.run();
 	}
 	
-	public static void search(){
-		
+	public void search(String queryStr){
+		SearchClass searchClass=new SearchClass();
+		searchClass.run(String queryStr);
 	}
 	
-	public static void gamaEncode(){
+	public void gamaEncode(){
 		
 	}
 	
