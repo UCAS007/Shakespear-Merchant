@@ -1,0 +1,3743 @@
+a 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+a-bleeding 8 
+a-brewing 8 
+abate 21 
+abide 17 19 
+abject 19 
+able 2 19 
+aboard 9 
+abode 9 
+about 1 3 5 7 9 12 21 
+above 9 17 19 
+abram 3 
+abridged 1 
+abroad 1 3 16 
+absence 2 17 21 
+absent 21 
+abundance 2 
+accept 2 20 
+acceptance 19 
+accepted 21 
+accident 21 
+accomplished 17 
+according 2 5 19 
+account 15 19 
+accoutred 17 
+accused 19 
+achieved 15 
+acknowledge 17 
+acquaintance 5 
+acquainted 2 19 
+acquitted 19 21 
+act 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+add 21 
+addressd 12 
+adieu 3 6 10 12 
+admit 19 
+ado 1 
+advantage 3 
+advantages 10 
+adventuring 1 
+adversary 19 
+advice 20 
+advised 1 4 21 
+advisedly 21 
+aeson 21 
+afeard 2 10 12 
+affairs 9 
+affection 2 4 11 19 
+affections 1 14 21 
+aforesaid 5 
+after 1 4 8 15 19 21 
+afternoon 2 8 
+afterward 4 
+again 1 2 3 9 10 14 15 17 19 21 
+against 16 19 
+age 5 19 
+agitation 18 
+agree 5 
+ague 1 
+aim 1 
+air 15 21 
+alabaster 1 
+alack 6 
+alas 2 4 5 19 
+albeit 9 
+alcides 4 15 
+alien 19 
+alighted 12 
+alive 5 12 
+all 1 2 3 4 5 7 8 9 10 11 12 14 15 16 17 18 19 21 
+allay 5 15 
+allding 15 
+allows 19 
+almost 1 9 19 21 
+alone 15 16 21 
+along 11 15 
+aloof 15 
+aloud 20 
+already 2 17 21 
+alter 19 
+although 3 17 
+always 18 
+am 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 21 
+amazed 21 
+ambassador 12 
+ambitious 10 15 
+amen 5 14 
+amiss 12 
+amity 15 17 
+among 2 4 14 15 19 
+amorous 11 
+an 1 3 5 7 9 10 12 14 15 16 17 18 19 21 
+ancient 3 12 15 
+and 
+andrew 1 
+angel 10 21 
+animals 19 
+anon 5 12 18 
+another 1 2 3 14 18 19 
+answer 3 10 18 19 21 
+answerd 11 19 
+answers 15 19 
+ant 5 
+antipodes 21 
+antonio 
+antonio-- 1 
+antonio--o 14 
+antonioa 
+antonioand 3 19 
+antonioay 19 
+antoniobelieve 1 
+antoniobut 19 
+antoniocome 3 
+antoniocontent 3 
+antoniofarewell 1 
+antoniofie 1 9 
+antoniohear 16 
+antoniohere 21 
+antoniohie 3 
+antonioi 1 3 16 19 21 
+antonioin 1 
+antoniois 1 
+antoniolet 16 
+antoniomark 3 
+antoniomost 19 
+antoniomy 19 
+antoniono 21 
+antonioready 19 
+antonios 14 15 19 
+antonioshylock 3 
+antonioso 19 
+antoniosweet 21 
+antoniothe 16 
+antoniothis 3 
+antoniothou 1 
+antoniowell 1 3 
+antoniowhos 9 
+antoniowhy 3 
+antonioyes 3 
+antonioyou 1 
+antonioyour 1 
+any 1 2 3 4 5 12 14 15 17 18 19 21 
+anything 15 19 
+apparel 8 
+apparent 19 
+appear 5 12 15 19 21 
+appeareth 19 
+appears 3 15 17 19 
+appetite 9 
+applause 15 
+apple 3 
+approach 2 9 
+approaching 12 
+appropriation 2 
+approve 15 
+april 12 
+arabia 10 
+are 1 2 3 5 8 9 10 12 14 15 17 18 19 20 21 
+argosies 1 21 
+argosy 3 14 
+argus 21 
+armd 19 
+army 18 
+arragon 12 
+arragonand 12 
+arragonarragon 
+arragoni 12 
+arragonwhat 12 
+arragonwhats 12 
+arrow 1 
+art 5 9 12 16 19 
+as 1 2 3 4 5 7 8 9 10 11 12 14 15 17 18 19 21 
+ash-wednesday 8 
+ashamed 6 9 
+aside 5 10 19 20 
+ask 18 19 
+aspect 1 4 
+asses 19 
+assume 12 15 
+assumes 15 
+assured 1 3 19 
+at 
+attain 4 
+attempt 4 19 
+attempts 19 
+attend 1 17 
+attendants 
+attended 17 21 
+attendeth 19 
+attending 4 
+attentive 21 
+attribute 19 
+aught 2 5 10 15 21 
+authority 15 19 
+autumn 3 
+avenue 21 
+awaked 21 
+awards 19 
+away 5 7 9 12 14 15 17 19 20 21 
+awe 19 
+aweary 2 
+awhile 1 15 
+axe 19 
+ay 3 19 
+bachelor 14 
+back 1 10 17 19 
+backward 5 
+bad 2 14 21 
+badge 3 
+bag 11 
+bag-piper 1 
+bagpipe 19 
+bags 11 
+bait 1 14 
+balance 19 
+balls 15 
+balthasar 
+balthasarmadam 17 
+baned 19 
+bank 21 
+bankrupt 14 19 
+banks 21 
+bar 5 10 15 
+barbarous 12 
+barbary 15 
+bare 12 19 
+barely 19 
+bargain 15 
+bargains 3 14 
+bark 1 9 
+baron 2 
+barrabas 19 
+barren 3 
+bars 4 15 
+base 10 12 
+basket 5 
+bassanio 
+bassanio-- 8 
+bassanioand 15 
+bassanioantonio 19 
+bassanioaside 21 
+bassanioay 3 
+bassaniobe 3 
+bassanioby 21 
+bassanioconfess 15 
+bassaniodear 19 
+bassaniodo 19 
+bassanioere 15 
+bassanioevery 19 
+bassaniofor 3 15 19 
+bassaniogo 19 
+bassaniogood 1 19 
+bassaniogramercy 5 
+bassaniogratiano 1 5 
+bassaniohave 3 
+bassaniohere 19 
+bassaniohis 
+bassanioi 1 3 5 19 21 
+bassanioif 3 21 
+bassanioin 1 
+bassaniolet 15 
+bassaniolorenzo 15 
+bassaniomadam 15 
+bassaniomay 3 
+bassaniomost 19 
+bassanionay 21 
+bassaniono 5 21 
+bassanionone 15 
+bassanioo 15 
+bassanioone 5 
+bassanioour 15 
+bassanioportia 21 
+bassaniopromise 15 
+bassanioreads 15 
+bassanios 9 11 15 18 
+bassaniosince 15 
+bassanioso 15 
+bassaniosweet 21 
+bassaniothe 15 
+bassaniotheres 19 
+bassaniothis 3 19 
+bassaniothou 5 
+bassaniotis 1 
+bassaniowe 21 
+bassaniowell 5 
+bassaniowere 21 
+bassaniowhat 15 
+bassaniowhy 5 19 
+bassaniowith 15 
+bassanioyes 19 
+bassanioyou 3 5 
+bassanioyour 3 
+bastard 18 
+bate 19 
+bated 3 16 
+bay 9 
+be 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+beach 19 
+beams 21 
+bear 3 12 15 17 19 
+beard 3 5 
+beards 15 
+bearing 5 17 
+bears 10 19 
+beast 2 
+beaten 4 
+beauteous 15 
+beauties 15 
+beautiful 6 
+beauty 15 
+became 2 
+because 1 12 18 19 
+bechanced 1 
+become 3 5 6 11 19 21 
+becomes 19 
+bed 10 12 15 21 
+bed-fellow 21 
+bedfellow 21 
+beds 19 
+beefs 3 
+been 2 10 14 15 19 21 
+before 2 3 4 8 9 12 14 15 16 17 18 19 20 21 
+beg 19 
+beggar 14 19 
+beggard 9 
+beggd 21 
+begin 15 
+begot 15 
+behalf 3 
+behavior 2 5 
+beheld 15 
+behind 11 15 19 
+behold 10 19 
+beholding 3 
+beholdst 21 
+being 1 2 3 5 10 11 15 17 19 21 
+believe 1 14 21 
+bell 15 
+bellario 17 19 21 
+bellarios 19 
+bellowing 21 
+belly 18 
+belmont 
+beloved 15 
+below 9 
+bend 3 
+beneath 19 
+bereft 15 
+beseech 5 8 15 19 
+beset 21 
+beshrew 15 
+besides 4 11 12 15 
+besmear 21 
+bespeak 14 
+best 2 5 10 11 18 21 
+best-conditiond 15 
+best-esteemd 5 
+best-regarded 4 
+bestow 5 
+bestowd 5 17 
+bestows 21 
+bethink 1 3 
+betimes 14 
+better 1 2 3 4 7 12 14 15 18 19 21 
+bettered 19 
+between 3 5 14 15 17 19 
+beware 16 
+bid 2 7 8 15 18 19 21 
+bidding 8 
+bids 5 8 
+big 11 
+bind 8 
+bird 14 
+birth 10 
+black-monday 8 
+blame 18 21 
+bleared 15 
+bleat 19 
+bleed 14 19 
+blent 15 
+bless 5 15 
+blessed 21 
+blesseth 19 
+blessing 3 5 15 18 
+blest 3 4 19 
+blind 4 5 9 21 
+blinking 12 
+bliss 12 15 
+blood 1 2 4 5 6 14 15 19 21 
+bloods 14 
+bloody 16 19 
+blotted 15 
+blow 1 
+blunt 10 
+blush 9 
+boards 3 
+body 2 3 15 19 21 
+bold 5 10 15 
+boldest 5 
+bon 2 
+bond 3 11 14 15 16 19 
+bondmans 3 
+bonds 9 
+bone 2 
+bones 19 
+bonnet 2 
+book 5 
+books 19 
+bootless 16 
+born 1 4 
+borne 3 
+borrow 3 
+borrowd 8 
+borrowed 2 
+bosom 17 19 
+bosoms 19 
+both 1 5 14 15 17 18 19 21 
+bottom 1 
+bought 2 5 15 19 
+bound 3 19 21 
+bounds 21 
+bounty 17 
+bow 15 
+box 2 
+boy 5 8 9 15 17 21 
+boy-- 5 
+boys 9 11 
+braggart 15 
+bragging 17 
+brain 2 
+branches 5 
+brassy 19 
+brave 5 
+braver 17 
+break 3 7 14 15 21 
+breast 19 
+breath 3 12 15 
+breathed 17 
+breathing 14 21 
+bred 4 15 
+breed 3 
+breeders 3 
+breeding 10 
+bridegrooms 15 
+brief 5 19 
+bright 21 
+brightly 21 
+bring 1 3 4 15 17 19 21 
+bringeth 12 
+brings 2 3 15 
+brook 10 21 
+broth 1 
+brothers 1 
+brought 5 
+brow 15 19 
+brutus 1 
+budge 5 
+builds 12 
+burghers 1 
+burial 1 
+buried 14 
+burning 21 
+burnishd 4 
+burthens 19 
+bushels 1 
+business 1 5 11 15 
+but 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+buy 1 3 
+buzzing 15 
+by 1 2 3 4 5 8 9 10 11 12 14 15 17 18 19 21 
+cackling 21 
+call 1 3 8 14 15 19 
+calld 3 
+calldst 16 
+called 2 
+calls 1 3 21 
+came 1 2 11 12 14 19 
+can 1 2 3 5 9 14 15 17 18 19 20 
+candle 9 12 21 
+candles 21 
+cannot 2 3 5 9 14 16 19 20 21 
+canst 15 19 
+capering 2 
+carcasses 14 
+care 1 16 
+carries 10 
+carrion 10 14 19 
+carry 19 
+carthage 21 
+casements 8 
+casket 2 9 10 12 15 
+caskets 2 4 10 12 15 
+cast 14 
+casualty 12 
+cat 19 
+catch 3 9 
+cater-cousins-- 5 
+catos 1 
+caught 1 
+cause 5 16 19 21 
+ceases 21 
+cerecloth 10 
+ceremoniously 21 
+ceremony 21 
+certain 3 9 14 19 21 
+certainly 5 14 
+certainty 9 
+certified 11 
+chaff 1 12 
+chance 4 15 
+chanced 21 
+change 4 17 19 21 
+changed 1 5 
+chapels 2 
+charge 19 21 
+charity 2 19 
+charter 19 
+charybdis 18 
+chased 9 
+chaste 2 
+cheek 3 15 
+cheer 15 18 19 
+cheerest 18 
+cherubins 21 
+chest 12 
+chests 2 
+chief 1 
+chiefest 11 
+child 5 6 18 
+childhood 1 
+children 18 
+chin 5 
+chins 15 
+choice 4 10 12 15 
+choose 2 4 10 12 14 15 19 
+chooses 2 
+chooseth 10 12 
+choosing 4 15 
+chose 10 12 
+chosen 2 
+christening 19 
+christian 3 6 7 8 11 14 16 18 19 
+christians 3 18 
+church 1 15 
+churches 2 
+chus 15 
+circumstance 1 
+cite 3 
+citizen 19 
+city 16 
+citys 19 
+civil 21 
+civility 5 
+claim 15 19 
+clamber 8 
+clear 1 12 
+cleared 15 
+clerk 
+clerkreads 19 
+clerks 21 
+clime 4 
+clock 5 9 
+close 9 21 
+clothes 9 
+clown 
+coach 17 
+coals 18 
+coast 1 
+cobwebs 15 
+coffer 19 
+coffin 14 
+coin 10 
+colchos 1 
+cold 2 5 10 
+colour 15 
+colt 2 
+colts 21 
+come 1 2 3 4 5 7 8 9 10 12 14 15 16 17 18 19 21 
+comer 4 
+comes 1 2 3 5 9 12 14 15 17 18 19 21 
+comforts 21 
+coming 14 18 21 
+coming-in 5 
+command 5 12 
+commanded 12 
+commandment 19 
+commands 17 
+commend 19 
+commendable 1 18 
+commendation 19 
+commends 12 15 
+comments 15 
+commiseration 19 
+commit 9 17 
+commits 15 
+commodity 1 16 
+common 12 15 17 
+commonwealth 18 
+companions 17 
+company 1 2 14 15 20 
+company-- 14 
+comparison 15 
+competency 2 
+complexion 2 4 10 14 
+compromised 3 
+compulsion 19 
+conceit 1 17 
+conceits 18 
+conceive 21 
+conceiving 3 
+concord 21 
+condition 2 3 21 
+conduct 19 
+confess 15 19 
+confession 15 
+confirmd 15 
+confiscate 19 
+confound 15 
+confused 11 
+confusion 15 
+confusions 5 
+congregate 3 
+conjured 3 
+conscience 5 
+consequence 15 
+consider 19 
+consisteth 16 
+conspired 8 
+constant 9 15 
+constitution 15 
+contain 19 21 
+containd 12 
+contains 10 
+contemplation 17 
+contending 15 
+content 15 17 19 
+contented 19 
+contents 15 
+continent 
+continuance 1 
+contrary 2 3 
+contrive 19 
+contrived 19 
+controversy 19 
+conveniency 19 
+convenient 17 
+conveniently 11 
+converse 2 17 
+converted 15 
+converting 18 
+cool 1 
+cooled 14 
+cooling 1 
+cope 19 
+cord 19 
+corners 10 18 
+cornets 4 10 12 
+corrupt 15 
+corruptly 12 
+cost 14 17 
+costly 12 
+cottages 2 
+couching 21 
+could 2 8 9 15 17 18 19 21 
+counsel 2 5 
+counsels 15 
+count 2 
+counterfeit 15 
+country 11 
+countrymen 15 
+county 2 
+courage 19 
+courageous 5 
+course 16 19 
+court 
+courteous 12 19 
+courtesies 3 15 
+courtesy 14 19 21 
+courtship 11 
+cousins 17 
+cover 12 18 
+covered 18 
+cowards 15 
+cozen 12 
+cradle 15 
+crave 19 
+cream 1 
+creation 15 
+creature 4 15 
+credit 1 21 
+creditor 16 
+creditors 14 15 
+creep 1 15 21 
+cressid 21 
+cripple 2 
+crisped 15 
+cross 7 14 
+crosses 21 
+crossing 14 
+crost 8 
+crow 21 
+crown 19 
+cruel 15 19 
+cruelty 19 
+cry 15 
+crying 11 
+cubs 4 
+cuckold 21 
+cuckolds 21 
+cuckoo 21 
+cudgel 5 
+cunning 15 
+cupid 9 
+cupids 12 
+cur 3 16 
+curb 19 
+curbed 2 
+cureless 19 
+current 19 
+currish 19 
+curse 14 
+cursed 3 
+cursedst 4 
+curtain 12 
+curtains 10 
+curtsy 1 
+custom 3 19 
+customary 17 
+cut 1 3 19 21 
+cut-throat 3 
+cutlers 21 
+cutst 19 
+cutting 19 
+dagger 14 17 
+dam 14 19 
+damn 1 
+damnation 10 
+damnd 19 
+damned 14 15 18 
+danger 19 
+dangerous 1 14 15 
+daniel 19 
+dardanian 15 
+dare 7 14 21 
+daring 4 
+dark 21 
+daughter 1 2 6 8 11 14 18 19 
+daughters 7 14 
+day 1 3 5 8 11 12 15 19 20 21 
+daylight 21 
+dead 2 5 14 15 
+deal 1 
+dealings 3 
+dear 1 15 17 18 19 21 
+dearest 15 19 
+dearly 19 
+death 2 10 14 15 19 21 
+death-bed 15 
+deaths-head 2 
+debating 3 
+debt 15 16 19 
+debtor 1 
+debts 1 15 
+decay 21 
+deceased 5 
+deceived 6 15 21 
+decree 2 19 
+decrees 19 
+deed 3 19 20 21 
+deeds 19 
+deep 2 19 
+deface 15 
+defect 5 
+defend 2 
+defendant 19 
+defended 21 
+defending 21 
+defy 18 
+degrees 12 
+deliberate 12 
+delight 9 11 
+deliver 10 19 
+deliverance 15 
+deliverd 16 
+delivered 5 
+delivering 19 
+demand 19 
+demi-god 15 
+demurely 5 
+denied 16 
+deny 5 15 16 17 19 21 
+denying 17 
+depart 1 
+departure 2 
+depending 2 
+depends 19 
+derived 12 
+describe 2 
+description 2 15 
+desert 12 
+deserts 10 12 
+deserve 10 12 
+deserved 19 21 
+deserves 10 12 
+deserving 2 10 
+deservings 12 19 
+desire 3 5 9 10 12 17 19 
+desired 9 
+desires 10 14 19 
+desirest 19 
+despair 15 
+despise 2 
+destinies 5 
+destiny 4 12 
+detain 15 
+determinations 2 
+determine 19 
+device 17 
+devil 2 3 5 6 14 19 
+devise 2 
+devised 2 
+dew 21 
+diamond 14 
+diana 2 21 
+dice 4 
+did 1 3 5 6 8 9 11 12 14 15 17 19 20 21 
+dido 21 
+didst 6 
+die 2 4 14 21 
+died 17 
+dies 15 19 21 
+diest 19 
+difference 8 14 19 
+digest 18 
+dignity 12 
+dim 21 
+dimensions 14 
+dine 3 
+dinner 1 4 18 19 20 
+dinner-time 1 
+direct 10 19 
+directed 7 15 
+direction 3 4 
+directly 3 19 
+disabled 1 
+disabling 10 
+discharge 15 19 
+discontinued 17 
+discourse 18 
+discover 10 
+discovery 9 
+discretion 18 
+diseases 14 
+disgraced 14 
+disguise 7 
+dish 5 
+dislike 2 
+dismay 3 15 
+dismayd 21 
+dismiss 19 
+dispatch 15 
+displeased 21 
+displeasure 21 
+distinct 12 
+divers 14 
+divided 15 
+divine 2 
+division 19 
+do 1 2 3 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+dobbin 5 
+dobbins 5 
+dockd 1 
+doctor 17 19 21 
+doctors 21 
+dog 1 3 11 16 19 
+dogs 19 
+doing 3 15 17 19 
+doit 3 
+done 1 2 5 8 15 18 
+dong 15 
+door 2 19 
+doors 8 9 
+dost 5 10 12 15 18 19 
+dote 2 
+doth 2 5 8 9 12 15 17 19 20 21 
+double 11 15 21 
+doublet 2 
+doubly 21 
+doubt 1 2 15 
+doubtful 15 
+doves 5 
+down 3 5 9 14 15 19 
+dowry 15 
+dram 19 
+dramatis 
+draw 10 12 15 19 21 
+draws 15 
+dread 19 
+dreadful 15 
+dream 8 
+dreaming 15 
+dressd 1 
+dressed 19 
+drew 21 
+dried 1 
+drink 3 
+drive 15 19 
+drones 8 
+drop 19 21 
+droppeth 19 
+drops 5 6 19 
+dross 10 
+drown 6 
+drowning 5 
+drudge 15 
+drum 8 
+drunk 2 
+dry 15 
+ducat 6 19 
+ducats 3 9 11 14 15 19 21 
+due 19 
+duke 
+dukeantonio 19 
+dukebring 19 
+dukecame 19 
+dukeget 19 
+dukego 19 
+dukehe 19 
+dukehow 19 
+dukei 19 
+dukemake 19 
+dukesir 19 
+dukethat 19 
+dukethis 19 
+dukeupon 19 
+dukewhat 19 
+dukewith 19 
+dukeyou 19 
+dulcet 15 
+dull 10 15 21 
+dull-eyed 16 
+dumb 1 21 
+dumb-show 2 
+duty 18 
+dwell 3 5 
+dwells 5 9 
+each 21 
+eaning 3 
+eanlings 3 
+ear 2 14 15 21 
+earliest 19 
+early 19 
+earnestly 19 
+ears 1 8 21 
+earth 4 10 11 18 
+earthly 18 19 
+easier 2 
+easy 1 2 
+eat 3 
+ecstasy 15 
+edge 5 
+edifice 1 
+een 18 
+eer 7 15 21 
+either 2 4 
+eke 15 
+elbow 5 
+elder 19 
+election 12 15 
+eleven 5 
+eloquence 15 
+else 8 14 15 18 19 
+embrace 1 
+embraced 9 11 
+employ 11 
+employd 19 
+empties 21 
+empty 10 19 
+enacted 19 
+enchanted 21 
+end 1 3 6 14 15 19 
+endeavour 17 
+endeavours 5 
+endymion 21 
+enemies 14 
+enemy 3 15 19 
+enfold 10 
+enforce 17 
+enforced 15 21 
+engaged 15 
+engenderd 15 
+england 2 3 10 15 
+english 2 11 
+englishman 2 
+enjoind 12 
+enjoyd 9 
+enjoying 15 
+enough 5 8 10 14 19 21 
+enow 18 19 
+enrobe 1 
+enter 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+enterd 21 
+entertain 1 
+enthroned 19 
+entirely 15 
+entrap 15 
+entreat 5 15 19 20 
+envious 15 
+envy 19 
+envys 19 
+epitaph 19 
+equal 3 17 
+ere 1 2 12 19 21 
+erebus 21 
+ergo 5 
+error 15 19 
+escaped 14 
+established 19 
+estate 1 15 
+estates 12 
+esteemd 19 
+estimable 3 
+estimation 10 19 
+even 1 3 4 9 10 11 12 15 19 21 
+events 21 
+ever 2 9 12 14 15 16 17 19 20 
+evermore 1 19 
+every 1 2 5 12 15 18 19 21 
+evil 3 15 
+ewe 19 
+ewes 3 
+exact 3 
+exaction 3 
+exactst 19 
+example 14 19 
+exceed 15 
+exceeding 1 5 
+excellent 19 
+except 4 
+excess 3 15 
+exchange 9 
+exclaim 15 
+excrement 15 
+excuse 7 19 
+execute 14 
+exeunt 1 2 3 4 5 7 9 10 11 12 14 15 16 17 18 19 20 21 
+exhibit 6 
+exhortation 1 
+exit 3 5 6 7 8 9 10 16 17 18 19 21 
+expect 3 8 19 21 
+expires 3 
+exploit 15 
+exposition 19 
+expressd 3 15 19 
+expressing 18 
+expressly 19 
+extend 3 10 
+extremest 1 
+eye 1 5 8 10 11 12 15 19 21 
+eyes 1 2 4 5 8 9 14 15 21 
+eyes-- 15 
+face 3 5 10 11 19 21 
+faces 8 
+fading 15 
+fail 1 5 7 12 
+faild 15 
+faint 1 
+fair 1 2 3 4 7 9 10 11 15 17 19 21 
+fairer 1 5 12 
+fairest 4 
+fairly 1 15 
+fairness 15 
+faith 1 3 7 9 15 19 21 
+faithfully 21 
+faithless 7 
+falconbridge 2 
+fall 2 3 18 19 
+fallen 19 
+falling 8 
+falls 2 15 
+false 2 15 21 
+falsehood 3 
+famished 5 
+fancy 15 
+fancys 15 
+fangs 16 
+far 5 10 15 19 21 
+fare 1 5 6 10 17 19 
+farewell 2 6 8 10 17 
+farther 19 
+farthest 5 
+fashion 2 19 
+fashiond 3 
+fast 3 8 9 21 
+faster 9 15 
+fat 3 
+fatal 14 
+fates 5 
+father 2 3 4 5 6 7 8 9 18 
+fathers 2 6 7 
+fault 15 21 
+faults 5 
+favour 3 19 
+fawning 3 
+fear 1 2 3 15 18 19 21 
+feard 4 
+fearful 3 
+fearfully 21 
+feast 5 9 15 
+feasting 8 
+feather-bed 5 
+fed 14 15 
+fee 14 19 21 
+feed 3 8 14 15 
+feeder 8 
+feel 15 
+feign 21 
+fell 2 8 14 17 19 
+fellow 1 17 18 
+fellows 1 5 18 
+felt 14 
+fence 2 
+ferry 17 
+fetching 21 
+few 15 
+fie 1 9 19 
+fields 4 
+fiend 5 
+fife 8 
+fifteen 5 
+fifth 2 
+fight 15 
+figure 10 
+fill 19 
+fill-horse 5 
+find 1 8 11 12 14 15 17 19 21 
+finds 18 
+fine 17 19 
+finger 5 15 21 
+fire 4 9 12 15 
+firm 19 
+first 1 9 10 12 15 18 19 21 
+fish 1 14 
+fit 21 
+five 5 
+flat 14 
+flatly 18 
+flats 1 
+flatter 8 
+fled 11 
+fledged 14 
+fleece 1 15 
+fleet 15 19 
+flesh 3 5 14 15 16 19 21 
+flew 14 
+flight 1 14 
+flint 19 
+flock 19 
+flood 1 19 
+floods 21 
+floor 21 
+flourish 4 10 12 15 
+fly 1 9 19 
+follies 9 
+follow 2 11 16 19 
+followed 2 
+follower 5 
+followers 5 21 
+following 3 
+follows 1 2 
+fond 12 16 
+font 19 
+food 14 15 
+fool 1 8 12 16 18 
+fooling 5 
+foolish 2 6 
+fools 1 8 12 18 
+foot 3 7 14 
+footing 21 
+foppery 8 
+for 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+forbear 15 
+forbid 5 19 
+force 12 19 
+fore-spurrer 12 
+foreign 10 
+forerunner 2 
+forfeit 3 14 15 19 21 
+forfeiture 3 15 16 19 
+forfeitures 16 
+forgave 21 
+forget 3 
+forgive 2 3 19 21 
+forgot 3 
+form 10 
+formerly 19 
+forsworn 15 
+fort 21 
+forth 1 8 15 18 19 21 
+forthwith 3 
+fortnight 14 
+fortunate 1 
+fortune 1 4 5 8 12 15 19 
+fortunes 1 2 10 12 
+forward 4 
+found 1 14 17 
+four 1 2 7 8 10 19 
+fourscore 14 
+fourth 3 
+framed 1 
+france 2 
+frankfort 14 
+fraught 11 
+fray 15 
+frays 17 
+free 19 
+freedom 15 19 
+freely 15 19 
+french 2 11 
+frenchman 2 11 
+fretten 19 
+friend 
+friendly 5 
+friends 
+friendship 3 
+from 1 2 3 4 5 7 9 10 11 12 14 15 16 17 19 21 
+frost 10 
+frown 2 
+frowning 2 15 
+fruit 19 
+frutify 5 
+full 2 3 14 15 19 21 
+fulsome 3 
+furnish 1 3 7 
+furnishd 7 
+furnished 19 
+further 10 19 
+furthermore 20 
+fury 19 
+gaberdine 3 
+gaged 1 
+gain 3 10 12 
+gains 14 
+gainst 19 
+gallows 19 
+gambols 15 
+gaoler 
+gaping 15 19 
+garden 18 
+garments 17 
+garnish 9 
+garnishd 18 
+gate 12 17 
+gates 2 
+gatherd 21 
+gaudy 15 
+gauge 5 
+gave 21 
+gaze 8 21 
+gazing 15 
+gear 1 5 
+gelt 21 
+gem 10 
+general 19 
+generation 3 
+genoa 14 
+genoa-- 14 
+gentile 9 
+gentle 1 3 4 7 10 15 19 21 
+gentleman 5 11 15 17 19 
+gentlemen 7 9 
+gentleness 19 
+gently 21 
+german 2 
+germany 2 
+get 1 5 6 10 12 15 17 18 20 
+getting 18 
+giddy 15 
+gift 19 21 
+gifts 12 19 
+gild 9 
+gilded 10 
+ginger 14 
+girl 8 11 15 
+give 3 5 6 10 12 15 17 19 20 21 
+given 11 14 19 21 
+gives 5 15 19 
+giving 3 19 
+glad 2 5 9 14 15 
+glancing 19 
+glass 2 
+gleand 12 
+glitters 10 
+glory 21 
+gloves 19 
+gnats 15 
+go 1 2 3 5 7 8 9 10 11 12 14 15 16 17 18 19 21 
+goats 3 
+gobbo 
+gobboalack 5 
+gobboby 5 
+gobbofather 
+gobbogod 5 
+gobbohe 5 
+gobboher 5 
+gobboheres 5 
+gobbohis 5 
+gobboi 5 
+gobbolord 5 
+gobbomarry 5 
+gobbomaster 5 
+gobbono 5 
+gobboof 5 
+gobbopray 5 
+gobbothat 5 
+gobbothe 
+gobboyour 5 
+god 2 5 10 14 16 19 21 
+god-fathers 19 
+godlike 17 
+gods 5 18 19 21 
+goes 12 15 
+goest 7 
+gold 2 3 7 10 12 14 15 21 
+golden 1 10 12 15 
+gondola 11 
+gone 5 7 9 11 12 14 15 17 18 19 21 
+good 1 2 3 5 6 7 11 14 15 16 17 18 19 20 21 
+good-sooth 9 
+goodly 3 
+goods 19 
+goodwins 14 
+goose 21 
+gormandise 8 
+gossip 14 
+got 5 15 18 21 
+govern 18 
+governd 19 
+governor 15 
+grace 5 17 18 19 
+graces 10 19 
+gracious 15 19 
+grains 1 
+grandam 5 
+grandsire 1 
+grant 1 2 16 19 
+grass 1 
+gratiano 
+gratianoa 19 
+gratianoabout 21 
+gratianoand 5 9 
+gratianobeg 19 
+gratianofair 20 
+gratianohe 21 
+gratianoi 5 9 15 19 
+gratianoin 19 
+gratianolet 1 21 
+gratianolove-news 7 
+gratianomy 15 21 
+gratianonay 5 
+gratianonerissa 15 
+gratianono 15 
+gratianonot 19 
+gratianonow 9 21 
+gratianoo 19 
+gratianos 7 
+gratianosignior 5 9 
+gratianothanks 1 
+gratianothat 9 20 
+gratianothis 9 
+gratianoto 21 
+gratianowas 7 
+gratianowe 7 
+gratianowell 1 15 21 
+gratianowere 21 
+gratianowhere 5 
+gratianowhy 21 
+gratianoyes 15 
+gratianoyou 1 5 
+gratify 19 
+gratis 3 16 19 
+grave 10 21 
+graved 10 
+gravity 1 
+grazed 3 
+great 1 2 5 19 
+greater 4 21 
+greatest 15 
+greatness 19 
+grecian 21 
+gree 5 
+greedy 15 
+green-eyed 15 
+greets 19 
+grief 21 
+griefs 16 
+grieve 11 19 21 
+grieved 10 
+grieving 4 
+grievous 19 
+groans 1 
+gross 3 10 15 
+grossly 21 
+grossness 15 
+ground 5 19 
+grow 1 5 15 18 
+grows 2 3 5 
+grudge 3 
+guard 3 
+guarded 5 
+gudgeon 1 
+guess 3 
+guest 6 
+guiled 15 
+guilty 15 
+gusts 19 
+ha 8 12 14 21 
+habit 2 5 17 
+habitation 3 
+had 1 2 3 4 5 10 14 15 17 19 21 
+hadst 16 
+hagars 8 
+hair 5 15 19 21 
+hairs 2 15 
+half 12 14 15 19 21 
+hall 21 
+halter 5 19 
+hand 3 4 5 7 10 11 12 15 17 19 21 
+hands 14 17 19 
+hang 1 19 
+hangd 19 
+hanging 5 12 
+hangmans 19 
+happier 15 
+happiest 15 
+happily 5 
+happiness 2 
+happy 15 17 21 
+harbour 21 
+hard 2 3 5 14 15 19 21 
+harder-- 19 
+hardly 16 
+hare 2 
+hark 21 
+harm 1 
+harmless 19 
+harmony 21 
+harsh 19 
+has 5 
+hast 5 8 14 18 19 
+haste 5 15 17 19 20 
+hasted 5 
+hat 5 
+hate 3 8 15 19 
+hates 3 16 
+hath 1 2 3 4 5 7 9 10 11 12 14 15 18 19 20 21 
+have 1 2 3 4 5 6 7 8 9 10 12 14 15 16 17 18 19 20 21 
+having 2 5 15 18 
+hazard 1 4 10 12 15 
+he 1 2 3 4 5 8 9 10 11 12 14 15 16 17 18 19 21 
+head 5 8 10 12 14 15 16 19 
+healed 14 
+healths 21 
+hear 3 5 8 11 14 15 16 17 19 21 
+heard 3 10 11 14 15 19 21 
+hearing 1 15 21 
+hears 2 
+hearsed 14 
+heart 1 2 3 4 5 10 14 15 17 19 21 
+heartily 9 19 
+hearts 12 15 17 19 
+heat 1 10 
+heated 14 
+heaven 3 5 7 10 17 18 19 21 
+heavenly 10 18 
+heavens 5 
+heaviness 11 
+heavy 19 21 
+hebrew 3 
+hedged 4 
+heed 5 
+heels 5 
+height 19 
+heinous 6 
+heiress 
+heirs 19 
+held 21 
+hell 6 10 15 
+hellish 17 
+help 3 8 
+hence 7 12 15 19 21 
+her 1 7 9 10 11 14 15 17 18 19 21 
+herbs 21 
+hercules 4 15 
+herd 21 
+here 2 3 5 7 9 10 12 14 15 17 18 19 20 21 
+hereafter 9 
+herein 1 5 19 
+heres 5 15 
+heresy 12 
+hermit 21 
+hers 14 
+herself 9 19 
+hid 1 5 21 
+hiding 15 
+hie 5 
+high 15 19 
+high-day 12 
+high-gravel 5 
+high-top 1 
+higher 21 
+highway 14 
+highways 21 
+him 2 3 5 6 8 11 12 14 15 16 18 19 20 21 
+himself 2 3 5 9 14 15 19 21 
+hindered 14 
+hip 3 19 
+hire 3 
+his 
+hit 5 15 
+hither 2 15 
+hive 8 
+ho 9 21 
+hogs 18 
+hold 1 9 15 16 17 19 21 
+holds 9 19 
+hollaing 21 
+hollow 19 
+holy 1 2 3 19 21 
+home 2 3 19 20 21 
+honest 5 14 18 
+honest-true 17 
+honour 1 12 15 17 19 21 
+honourable 12 17 19 
+honourd 15 
+honours 15 
+hood 5 9 
+hoop 21 
+hope 2 5 10 12 18 19 21 
+hopes 1 5 12 
+horn 21 
+horse 2 9 
+hose 2 
+hot 2 21 
+hour 7 9 19 21 
+hour-glass 1 
+hours 7 17 21 
+house 2 3 4 5 6 7 8 10 12 14 15 17 19 20 21 
+houses 8 
+hovel-post 5 
+how 1 2 3 5 7 9 10 12 14 15 17 18 19 21 
+howling 15 
+howsoer 18 
+huddled 19 
+hue 4 10 
+huge 8 
+huggd 9 
+human 19 
+humbleness 3 19 
+humbly 19 
+humility 14 
+humour 19 
+humours 18 
+hurt 14 
+husband 2 14 17 18 19 21 
+husbandry 17 
+husbands 2 17 19 20 21 
+hymn 21 
+hyrcanian 10 
+i 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+ibelmont 4 21 
+icicles 4 
+idiot 12 
+if 1 2 3 4 5 6 7 8 9 10 12 14 15 16 17 18 19 20 21 
+ignorant 1 
+ii 2 4 5 6 7 8 9 10 11 12 
+iibelmont 15 
+iii 14 15 16 17 18 
+iiithe 6 
+iiivenice 3 16 
+iithe 20 
+iivenice 5 
+ill 1 2 3 5 7 8 9 10 12 14 15 16 17 18 19 20 21 
+imagined 17 
+immediately 8 12 
+immortal 21 
+immured 10 
+impart 15 
+impeach 15 16 
+impediment 19 
+impenetrable 16 
+impertinent 5 
+importunity 19 
+imposition 2 17 
+impossible 15 
+impugn 19 
+imputation 3 
+in 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 21 
+incarnal 5 
+incision 4 
+incurrd 19 
+indebted 19 
+indeed 2 5 9 10 15 18 21 
+india 15 
+indian 15 
+indies 3 
+indirect 19 
+indirectly 5 19 
+inevitable 19 
+inexecrable 19 
+infection 5 
+infidel 15 19 
+infinite 1 
+infinitely 21 
+informed 19 
+infuse 19 
+infused 19 
+ingratitude 21 
+inhuman 19 
+injunctions 12 
+inlaid 21 
+inland 21 
+innocence 1 
+inquire 1 5 
+inscription 10 
+inscriptions 10 
+inscrolld 10 
+insculpd 10 
+inserted 3 
+inspirations 2 
+instant 18 19 
+instantly 3 12 
+instruction 14 
+instructions 2 
+intent 19 
+intercessors 16 
+interest 3 15 
+intergatories 21 
+intergatory 21 
+interior 12 
+intermission 15 
+interposer 15 
+interpreter 17 
+into 1 2 3 8 15 17 18 19 21 
+inward 15 
+is 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 21 
+is-- 5 
+issue 7 15 
+issuing 15 
+ist 10 14 
+it 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+it--ding 15 
+italian 2 
+italy 2 5 15 
+itself 15 19 21 
+iv 19 20 
+ivbelmont 17 
+ivenice 1 14 19 
+ivory 14 
+ivthe 7 
+ixbelmont 12 
+jacks 17 
+jacob 3 
+jacobs 3 8 
+janus 1 
+jasons 1 15 
+jaundice 1 
+jealous 18 
+jealousy 15 
+jessica 
+jessica-- 8 
+jessica--thou 8 
+jessicaand 18 
+jessicacall 8 
+jessicadaughter 
+jessicafarewell 6 8 
+jessicahere 9 
+jessicahis 8 
+jessicai 6 9 17 18 21 
+jessicaill 18 
+jessicain 21 
+jessicalorenzo 9 
+jessicanay 18 
+jessicapast 18 
+jessicathat 18 
+jessicawhat 9 
+jessicawhen 15 
+jessicawho 9 
+jest 1 
+jet 14 
+jew 
+jewel 21 
+jewels 7 11 14 
+jewess 8 
+jewish 3 19 
+jews 5 11 18 20 
+jot 19 
+joy 15 
+joys 18 
+judge 8 9 12 14 19 21 
+judges 21 
+judgment 10 12 19 
+jump 12 
+just 19 
+justice 
+keen 9 15 19 
+keenness 19 
+keep 1 6 9 11 12 14 20 21 
+keeping 21 
+kept 16 21 
+key 3 10 12 
+keys 8 
+kill 19 
+killed 17 
+kin 12 
+kind 3 5 8 18 19 21 
+kinder 11 
+kindest 15 
+kindness 3 
+king 15 21 
+kingdom 10 
+kings 19 
+kinsman 1 
+kiss 1 10 12 15 21 
+knapped 14 
+knave 3 6 
+kneels 21 
+knell 15 
+knew 14 17 19 21 
+knife 19 21 
+knocks 2 
+know 1 2 3 5 7 9 10 14 15 16 17 18 19 21 
+knowing 5 
+knowist 20 
+knowledge 1 
+known 5 15 21 
+knows 5 9 21 
+knowst 1 
+laban 3 
+labans 3 
+labour 10 
+lack 1 17 19 
+ladies 17 21 
+lading 14 
+lady 1 2 4 10 12 15 18 21 
+ladyship 17 
+laid 18 
+lamb 19 
+lambs 3 
+land-rats 3 
+land-thieves 3 
+lands 19 
+lark 21 
+last 3 5 8 15 19 21 
+lastly 12 
+late 11 19 
+lately 19 
+latin 2 
+latter 1 
+laugh 1 14 
+laughable 1 
+laughed 14 
+laughter 1 
+launcelot 
+launcelotadieu 6 
+launcelotan 7 8 
+launcelotaside 5 
+launcelotbut 5 
+launcelotby 7 
+launcelotcertainly 5 
+launcelotdo 5 
+launcelotergo 5 
+launcelotfather 5 
+launcelotfor 18 
+launceloti 5 8 
+launcelotin 5 
+launcelotindeed 5 
+launcelotit 5 18 
+launcelotmarry 7 18 
+launcelotnay 5 
+launcelotnot 5 18 
+launcelotpray 5 
+launcelotserve 5 
+launcelotsola 21 
+launcelottalk 5 
+launcelottell 21 
+launcelotthat 18 
+launcelotthe 5 
+launcelotto 5 
+launcelottruly 18 
+launcelotturn 5 
+launcelotwell 5 
+launcelotwhy 8 
+launcelotyes 18 
+launcelotyour 8 
+law 11 15 16 19 
+lawful 19 
+lawfully 19 
+laws 2 19 
+lawyers 19 
+lay 18 19 21 
+lays 17 
+layst 19 
+le 2 
+lead 2 4 10 12 15 
+leaden 10 15 
+leading 4 
+leadst 19 
+leah 14 
+lean 9 
+leap 1 
+leaps 2 
+learn 1 15 
+learnd 19 
+learned 19 
+learning 5 12 19 
+least 15 
+leave 1 2 5 6 7 10 12 14 15 19 21 
+led 4 
+left 1 3 5 19 21 
+legs 5 
+leisure 19 21 
+leisures 1 
+lend 3 14 21 
+lends 3 
+length 5 15 
+lent 16 
+leonardo 5 
+leonardomy 5 
+leonardoservant 
+leonardoyonder 5 
+less 15 18 19 21 
+lest 5 14 15 19 
+let 1 2 3 4 5 8 10 11 12 14 15 17 18 19 20 21 
+lets 1 5 10 21 
+letter 6 7 15 17 19 21 
+letters 5 19 
+level 2 
+lewd 17 
+liberal 5 19 21 
+lichas 4 
+lie 1 10 14 15 21 
+lies 10 15 17 19 
+lieu 19 21 
+life 5 10 12 15 16 18 19 21 
+life-blood 15 
+light 5 9 19 21 
+lightest 15 
+lights 14 
+like 1 2 3 5 9 10 12 14 15 17 18 19 21 
+likely 12 
+likeness 14 
+likes 19 
+likest 19 
+likewise 
+limbs 10 
+limp 15 
+line 5 
+lineaments 17 
+linger 12 
+lingering 19 
+lion 4 
+lions 21 
+lips 1 15 
+lisbon 15 
+little 2 17 19 21 
+live 2 5 15 17 18 19 21 
+liver 1 
+liveries 5 
+livers 15 
+livery 4 5 
+lives 2 14 
+living 2 21 
+livings 15 
+loath 8 
+loathes 19 
+loathing 19 
+lock 8 
+lockd 15 
+locks 1 15 
+lodged 19 
+lodging 5 7 
+long 5 9 12 15 
+longer 2 5 19 
+look 1 3 4 5 8 9 11 12 14 15 16 17 18 19 21 
+lookd 4 
+looked 2 
+looks 3 19 21 
+loose 19 
+lord 1 2 5 12 15 17 18 19 20 21 
+lords 1 2 17 
+lordship 15 
+lorenzo 1 5 6 7 9 11 15 17 18 19 20 21 
+lorenzoa 21 
+lorenzobeshrew 9 
+lorenzodescend 9 
+lorenzoeven 18 
+lorenzofair 17 21 
+lorenzogoodly 18 
+lorenzohe 21 
+lorenzoheaven 9 
+lorenzohere 21 
+lorenzohold 7 
+lorenzohow 18 
+lorenzoi 7 15 18 
+lorenzoin 
+lorenzoleave 21 
+lorenzolorenzo 9 
+lorenzomadam 17 
+lorenzomy 1 
+lorenzonay 7 
+lorenzono 18 
+lorenzoo 18 
+lorenzoso 9 
+lorenzosweet 9 21 
+lorenzothat 21 
+lorenzothe 21 
+lorenzotis 7 
+lorenzowell 1 
+lorenzowhither 7 
+lorenzowho 21 
+lorenzowill 18 
+lorenzoyet 18 
+lorenzoyour 21 
+lose 1 5 12 15 19 
+losers 10 
+losing 19 
+loss 14 
+losses 14 16 19 
+lost 1 8 10 14 15 21 
+lottery 2 4 
+loud 19 21 
+love 
+loved 4 15 19 21 
+lovely 9 
+lover 17 
+lovers 9 
+loves 9 11 
+loving 6 15 19 
+low 3 12 15 
+lower 1 
+luck 14 
+lungs 19 
+lying 14 
+mad 19 21 
+mad-woman 19 
+madam 2 17 21 
+made 1 2 4 7 9 14 15 16 18 19 21 
+madness 2 
+magnificoes 
+maid 1 12 15 21 
+maiden 15 
+maidens 4 
+maids 5 15 
+main 19 21 
+majesty 19 
+make 1 2 3 4 9 10 11 14 15 19 20 21 
+makes 1 2 15 17 19 
+makest 15 19 
+making 1 5 15 18 
+malice 19 
+man 1 2 3 4 5 10 11 15 17 18 19 21 
+manage 17 
+manifest 19 
+manly 6 17 
+manna 21 
+manner 2 
+mannerly 12 
+manners 6 17 
+mans 2 3 5 
+mansion 15 
+mantle 1 
+many 1 3 10 12 14 15 16 18 19 21 
+maps 1 
+mar 21 
+margery 5 
+mark 3 5 15 19 21 
+marquis 2 
+marriage 4 12 15 
+married 2 15 19 
+marry 2 5 7 19 
+mars 15 
+mart 14 
+martlet 12 
+marvel 9 
+marvellously 1 
+masque 7 8 9 
+masqued 9 
+masques 8 
+masquing 9 
+master 2 5 7 8 14 15 21 
+masters 5 6 21 
+mastership 5 
+match 14 18 
+matched 14 
+mates 9 
+matter 5 15 18 21 
+may 1 2 3 4 5 7 10 11 12 14 15 18 19 
+mayst 3 19 20 
+me 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+me--what 8 
+meagre 15 
+mean 2 3 8 15 18 
+meaning 2 3 18 
+means 1 3 4 14 15 19 21 
+meant 12 
+meantime 15 19 
+measure 15 17 
+measures 9 
+meat 18 
+medea 21 
+meet 1 3 7 14 17 18 19 
+meetest 19 
+meeting 15 
+melancholy 1 
+member 18 
+memory 3 18 
+men 1 2 3 4 10 12 14 15 16 17 19 20 
+mending 21 
+mens 2 
+mercenary 19 
+merchandise 1 14 
+merchant 
+merchant-marring 15 
+merchants 3 14 15 19 
+merciful 19 
+mercy 16 18 19 
+mere 15 
+merely 19 
+merit 12 
+merriment 5 
+merry 1 2 3 6 11 15 21 
+mesh 15 
+meshes 2 
+messages 1 
+messenger 15 19 21 
+metal 3 19 
+methinks 15 19 21 
+methought 3 
+mexico 3 15 
+midas 15 
+might 1 5 14 15 
+mightiest 19 
+miles 17 
+milk 15 
+million 14 
+mincing 17 
+mind 1 3 5 7 8 10 11 15 17 19 
+mine 1 2 3 4 5 9 14 15 17 19 21 
+mingled 15 
+miracle 15 
+mirth 1 5 
+misbeliever 3 
+miscarried 11 15 21 
+misconstrued 5 
+miseries 2 
+misery 17 19 
+misfortune 1 7 
+miss 4 15 
+mistress 8 15 19 21 
+mistrust 15 
+mitigate 19 
+moan 1 16 
+mock 4 
+mocked 14 
+mocker 2 
+moderate 15 
+modest 21 
+modesty 5 21 
+moe 1 
+moiety 19 
+monarch 15 19 
+monastery 17 
+money 1 3 14 15 16 18 19 
+money-bags 8 
+moneys 3 
+mong 18 
+monkey 14 
+monkeys 14 
+monsieur 2 
+montferrat 2 
+month 3 15 
+months 3 
+mood 19 
+moon 21 
+moonlight 21 
+moor 18 
+more 1 2 3 5 8 9 10 12 14 15 16 17 18 19 20 21 
+moreover 3 
+morning 2 8 15 19 21 
+morocco 2 4 10 
+moroccogood 4 
+moroccomislike 4 
+moroccomorocco 
+morocconor 4 
+moroccosome 10 
+moroccothe 10 
+morrow 1 
+mortal-breathing 10 
+mortifying 1 
+most 1 2 3 4 5 6 15 16 17 19 20 
+moth 12 
+mother 2 3 5 18 
+motion 15 21 
+motions 21 
+mountain 19 
+mounted 21 
+mouth 2 
+mouths 3 
+move 15 
+moved 21 
+moves 15 
+much 1 2 3 6 9 10 12 14 15 16 18 19 21 
+muddy 21 
+mules 19 
+multitude 12 15 
+multitudes 12 
+murder 5 
+music 15 21 
+musician 21 
+musicians 21 
+must 1 4 5 7 9 10 12 15 17 18 19 21 
+muttons 3 
+mutual 21 
+my 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+myself 1 4 5 9 10 15 17 19 
+myself-- 21 
+name 1 5 14 19 21 
+namest 2 
+narrow 11 14 
+nation 3 14 
+nations 16 
+native 9 
+nature 1 15 19 21 
+natures 12 
+naughty 15 16 21 
+nay 5 15 19 
+nazarite 3 
+neapolitan 2 
+neapolitans 2 
+near 3 4 15 17 21 
+nearest 19 
+neats 1 
+necessary 19 
+necessity 3 17 
+neck 5 
+need 2 3 18 
+needs 7 17 19 
+neer 5 15 21 
+negros 18 
+neighbour 2 4 
+neighbourly 2 
+neighbours 14 
+neighing 21 
+neither 1 2 3 18 19 21 
+nephew 2 
+nerissa 2 4 12 15 17 19 20 21 
+nerissaand 21 
+nerissaay 21 
+nerissabassanio 12 
+nerissacome 20 
+nerissado 2 
+nerissafirst 2 
+nerissafrom 19 
+nerissaher 
+nerissahow 2 
+nerissaif 2 
+nerissait 21 
+nerissamadam 15 
+nerissamy 15 
+nerissanor 21 
+nerissaquick 12 
+nerissas 21 
+nerissashall 17 
+nerissasilence 21 
+nerissathe 12 
+nerissathen 2 
+nerissathey 2 
+nerissatis 19 
+nerissatrue 2 
+nerissawhat 2 15 21 
+nerissawhen 21 
+nerissawhy 17 
+nerissayou 2 
+nerissayour 2 
+nestor 1 
+never 1 2 3 4 5 7 8 10 11 12 14 15 16 17 18 19 21 
+new 5 6 7 15 19 
+new-crowned 15 
+new-made 9 
+new-varnishd 12 
+news 2 3 5 7 14 15 21 
+next 5 12 21 
+nice 4 
+night 9 14 15 19 21 
+nightingale 21 
+nine 5 9 
+no 1 2 3 5 8 9 10 12 14 15 16 17 18 19 21 
+noble 1 10 12 17 19 
+noise 19 21 
+nominated 3 19 
+none 2 12 14 15 18 19 
+nor 1 2 3 8 10 14 15 17 19 21 
+northward 4 
+nose 8 19 
+not 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 21 
+notary 3 
+notarys 3 
+note 3 15 21 
+notes 17 
+nothing 1 2 5 8 14 15 19 
+notwithstanding 3 15 21 
+nought 21 
+nourished 15 
+now 1 2 3 5 7 9 10 12 14 15 17 18 19 21 
+nuptial 12 
+o 1 2 3 5 6 10 11 12 15 19 
+oath 12 16 19 21 
+oaths 15 21 
+obdurate 19 
+obey 17 
+object 1 
+obliged 9 
+obscure 10 
+obscured 9 
+obscures 15 
+observance 5 
+observe 12 
+obtaind 5 
+obtained 2 
+occasion 1 18 
+occasions 1 
+ocean 1 
+oclock 7 8 9 
+odd 5 
+oddly 2 
+oer 2 10 12 15 19 
+oerlookd 15 
+oertaen 20 
+oertrip 21 
+of 
+off 1 3 17 19 21 
+offence 19 
+offend 12 19 
+offended 19 
+offenders 19 
+offendst 19 
+offer 2 3 5 19 
+offerd 19 
+offers 19 
+office 9 
+officer 14 
+officers 
+offices 12 19 
+offspring 8 
+oft 1 3 16 
+often 10 14 15 
+old 
+on 
+once 3 9 10 12 19 21 
+one 1 2 4 5 8 10 12 14 15 18 19 21 
+only 1 11 15 17 18 19 
+ons 21 
+ont 9 
+ope 1 15 
+open 19 
+opening 15 
+opens 12 
+opinion 1 18 19 
+oppose 19 
+opposed 12 
+or 1 3 4 5 9 10 11 12 14 15 19 21 
+oracle 1 
+oration 15 
+orb 21 
+order 21 
+orderd 7 
+orderly 5 
+organs 14 
+ornament 15 
+orpheus 21 
+ostent 5 
+ostents 11 
+other 
+others 3 4 19 
+our 1 3 4 6 9 11 12 14 15 17 19 20 21 
+ours 5 19 
+out 1 3 5 8 9 11 14 15 16 17 18 19 20 
+out-- 8 
+out-dwells 9 
+out-night 21 
+outbrave 4 
+outcries 11 
+outface 20 
+outlive 19 
+outrageous 11 
+outside 3 10 
+outstare 4 
+outswear 20 
+outward 12 15 
+over 3 15 19 
+over-name 2 
+over-weatherd 9 
+overpeer 1 
+overtake 19 
+owe 1 15 
+owes 15 
+own 1 2 3 5 14 15 17 19 21 
+owners 15 
+pace 9 
+pack 5 
+padua 17 19 21 
+pagan 6 
+page 4 
+pageants 1 
+pages 7 
+paid 15 19 
+pain 5 
+pains 9 19 21 
+painter 15 
+palaces 2 
+palates 19 
+palatine 2 
+pale 15 
+paleness 15 
+paler 21 
+paltry 21 
+paper 7 15 
+parcel 2 
+pardon 19 21 
+park 17 
+parrots 1 18 
+part 1 3 5 8 10 11 14 15 17 19 21 
+parted 5 11 15 21 
+parti-colourd 3 
+partly 
+parts 2 5 15 19 
+party 19 
+pass 2 3 
+passion 11 19 
+passions 14 15 
+past 9 15 
+patch 8 
+patience 9 19 
+patient 3 
+patiently 12 
+patines 21 
+pause 10 12 15 19 
+pawnd 18 
+pay 2 11 15 16 19 
+paying 15 
+pays 19 
+peace 19 21 
+pearls 15 
+peasantry 12 
+peeld 3 
+peep 1 
+peering 1 
+peevish 1 
+peize 15 
+pen 21 
+penalties 19 
+penalty 3 19 
+penance 19 
+pennyworth 2 
+pent-house 9 
+people 17 21 
+peoples 15 
+perceive 21 
+perchance 21 
+perfection 21 
+perform 2 
+perhaps 8 
+peril 3 5 19 
+perjury 19 
+persian 4 
+person 1 
+personae 
+persuade 15 
+persuaded 15 
+pertains 15 
+peruse 7 
+petty 1 15 
+philosopher 2 
+phoebus 4 
+pickd 12 
+picture 2 10 
+pied 3 
+pierce 19 21 
+piers 1 
+pig 19 
+pigeons 9 
+pilgrimage 1 
+pillar 19 
+pines 19 
+pirates 3 
+pity 5 19 
+place 1 3 5 14 17 18 19 
+placed 9 
+plague 14 
+plain 5 14 18 19 21 
+planted 18 
+play 1 4 6 9 15 18 
+played 2 
+plays 15 
+plea 15 19 
+please 1 3 5 7 9 19 
+pleased 15 17 19 21 
+pleaseth 3 
+pleasure 3 15 
+plies 15 
+plots 1 
+pluck 4 19 21 
+plucking 1 
+pocket 5 
+poet 21 
+poetry 21 
+poison 14 
+pond 1 
+poor 2 5 15 18 19 
+pork 3 18 
+pork-eaters 18 
+port 1 15 
+portia 
+portiaa 
+portiaand 19 
+portiaart 19 
+portiaaside 15 20 
+portiaaway 15 
+portiaay 2 15 19 
+portiabehold 12 
+portiaby 2 
+portiacome 12 17 
+portiaeven 21 
+portiafie 17 
+portiafirst 4 
+portiafor 19 
+portiago 10 21 
+portiagod 2 
+portiagood 2 
+portiahave 19 
+portiahe 2 19 21 
+portiahow 21 
+portiai 2 15 17 19 21 
+portiaif 2 21 
+portiain 4 
+portiainquire 20 
+portiais 15 19 
+portiait 19 
+portialet 21 
+portiamark 21 
+portiamy 17 
+portiano 12 
+portianothing 21 
+portiao 15 
+portiaof 19 
+portias 2 4 10 12 15 17 21 
+portiashylock 19 
+portiasir 21 
+portiaso 15 21 
+portiasoft 19 
+portiaspeak 21 
+portiatarry 19 
+portiathat 2 19 20 21 
+portiathe 10 19 21 
+portiathen 21 
+portiathere 10 15 
+portiatherefore 2 19 
+portiathey 17 
+portiathis 21 
+portiathou 19 
+portiathus 12 
+portiato 12 
+portiatoo 12 
+portiaupon 15 
+portiavery 2 
+portiawe 21 
+portiawell 15 
+portiawhat 15 19 21 
+portiawhy 19 
+portiayes 2 
+portiayou 2 4 15 19 21 
+portiayour 19 
+portly 1 
+portrait 12 
+ports 1 
+possessd 3 19 21 
+possessor 3 
+possible 3 
+post 12 21 
+posy 21 
+pound 3 16 19 
+poverty 19 
+power 3 15 19 21 
+powers 15 
+practise 17 
+praise 2 15 18 21 
+praising 12 17 
+prating 21 
+pray 1 2 3 4 5 11 12 15 16 17 18 19 20 21 
+prayer 14 17 19 
+prayer-books 5 
+prayers 16 19 
+praying 21 
+prays 21 
+precedent 19 
+precious 11 14 
+predicament 19 
+preferment 5 
+preferrd 5 
+preparation 7 
+prepare 7 18 19 21 
+prepared 19 
+presage 15 
+presages 1 
+presence 15 17 
+present 1 3 5 15 19 
+presenting 12 19 
+presently 1 3 9 12 19 
+press 19 
+prest 1 
+presume 12 
+prettier 17 
+pretty 9 21 
+prevented 1 
+prey 4 
+price 18 
+prick 14 
+pries 12 
+prince 
+princely 2 
+princes 2 10 
+principal 19 
+privately 7 
+privy 19 
+prize 12 15 
+proceed 19 
+proceeding 19 
+process 19 
+proclamation 19 
+prodigal 1 8 9 14 
+producing 3 
+profit 8 16 
+profitable 3 
+profound 1 
+prolixity 14 
+promise 6 10 15 18 
+promised 1 
+pronounced 2 19 
+proof 1 
+prop 5 19 
+proper 2 15 
+prophet 3 
+proportion 17 
+prosper 15 
+protection 21 
+protest 19 
+prouder 17 
+prove 2 4 14 15 17 
+proved 9 19 
+proverb 5 8 
+provided 7 15 19 
+public 3 8 
+publican 3 
+publish 19 
+puny 17 
+purchased 12 15 19 
+purchasing 17 
+pure 1 
+purpose 1 3 5 15 19 
+purposes 1 
+purse 1 3 8 
+pursue 19 
+put 5 11 15 19 
+puts 9 
+pythagoras 19 
+quaint 17 
+quaintly 7 
+qualify 19 
+qualities 10 
+quality 15 19 
+quarrel 21 
+quarrelling 18 
+quarrels 21 
+queen 4 15 
+quest 1 
+question 1 19 
+questionless 1 
+questions 17 
+quick 12 
+quicken 11 
+quietness 19 
+quiring 21 
+quit 19 
+quite 21 
+race 21 
+rack 15 
+rackd 1 
+rage 19 21 
+ragged 9 
+rail 19 
+rails 3 
+rain 19 
+raise 1 3 5 18 
+raised 11 
+rams 3 
+ran 15 21 
+rank 3 12 
+rare 5 
+rash-embraced 15 
+rasher 18 
+rat 19 
+rate 1 3 
+rate-- 3 
+rated 3 10 
+rather 1 2 3 5 15 19 21 
+ratified 15 
+rating 15 
+ravenous 19 
+raw 17 
+reach 19 
+read 10 12 21 
+readiness 7 
+reads 10 12 15 
+ready 5 19 
+reason 14 15 16 18 19 21 
+reasonable 2 
+reasond 11 
+reasoning 2 
+reasons 1 
+rebel 14 
+rebels 14 
+recant 19 
+receipt 19 
+receive 1 15 19 
+received 21 
+record 19 
+recorded 19 
+red 14 
+reddest 4 
+redeem 15 
+redoubted 15 
+reed 17 
+refuse 2 21 
+refused 19 
+regard 1 
+regreets 12 
+rehearsed 19 
+rein 15 
+relation 19 
+relent 16 
+relief 17 
+religion 15 
+remember 2 
+rememberd 11 
+remembrance 19 
+remorse 19 
+rend 8 
+render 15 17 19 
+renderd 19 
+rendering 19 
+renew 21 
+renowned 1 4 
+rent 9 
+repair 19 
+repay 3 
+repent 17 19 
+repents 19 
+reply 15 
+report 14 
+reproach 8 
+reputed 1 
+request 16 19 
+requite 2 
+resemble 14 
+respect 1 5 21 
+respective 21 
+rest 1 3 5 8 9 14 15 
+return 2 3 5 7 8 9 11 17 
+returnd 21 
+revenge 14 
+reverence 1 5 
+reverend 19 
+rhenish 2 14 
+rheum 3 
+rialto 3 14 
+rib 10 
+ribs 1 5 9 
+rich 
+richly 1 11 21 
+riddance 10 
+riding 15 
+right 2 4 5 8 10 12 15 19 21 
+rightful 19 
+rightly 2 
+rights 15 
+rigorous 19 
+ring 14 15 19 20 21 
+rings 20 21 
+ripe 3 
+riping 11 
+riseth 9 
+rites 12 
+rival 1 
+riveted 21 
+road 12 21 
+roads 1 
+roaring 1 
+roars 4 
+rob 6 
+rocks 1 3 15 
+roman 15 
+rome 19 
+roof 15 
+room 2 4 6 10 12 15 17 19 
+rotten 3 
+rough 19 
+round 2 3 
+rouse 5 
+royal 15 19 
+rude 5 18 
+ruin 12 15 19 
+rule 19 
+ruled 5 
+run 1 5 9 19 21 
+runaway 9 
+running 5 
+rush 19 
+sabbath 19 
+sacred 3 
+sacrifice 15 19 
+sad 1 5 
+sadness 1 2 
+safe 21 
+safely 21 
+said 3 12 
+sail 1 9 11 
+sailors 3 14 
+sails 9 
+saint 2 10 
+sake 1 7 11 19 
+salanio 
+salanioand 7 14 
+salanioay 7 
+salaniobelieve 1 
+salanioha 14 
+salaniohere 1 14 
+salanioi 11 14 
+salaniolet 11 14 
+salanionow 14 
+salanioout 14 
+salaniothats 14 
+salaniothe 11 
+salaniotis 7 
+salanioyou 11 
+salarino 
+salarinoa 11 
+salarinocome 14 
+salarinodo 11 
+salarinogood 1 
+salarinohe 11 
+salarinohere 9 
+salarinohis 9 
+salarinoi 1 14 16 
+salarinoit 16 
+salarinomarry 11 
+salarinonot 1 
+salarinoo 9 
+salarinothats 14 
+salarinothere 14 
+salarinotis 7 
+salarinowe 7 14 
+salarinowell 1 
+salarinowhy 1 11 14 
+salarinoyour 1 
+salerio 
+saleriohe 19 
+salerioi 15 
+salerionot 15 
+salvation 19 
+same 1 2 6 7 8 9 14 15 17 18 19 20 21 
+sand 1 15 
+sand-blind 5 
+sandy 1 
+satisfaction 14 
+satisfied 19 21 
+savage 21 
+save 15 19 
+saved 18 
+saving 5 
+saw 5 11 15 21 
+saxonys 2 
+say 1 2 3 5 8 12 14 15 18 19 21 
+sayest 14 
+saying 1 3 5 10 12 15 
+sayings 5 
+says 5 8 10 12 18 19 
+scale 19 
+scant 15 21 
+scanted 4 
+scape 5 15 
+scapes 5 
+scarce 4 5 14 
+scarf 15 
+scarfed 9 
+scatter 1 
+scene 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+scenepartly 
+sceptre 19 
+sceptred 19 
+schedule 12 
+scholar 2 
+school 17 
+school-days 1 
+scimitar 4 
+scorn 5 
+scorned 14 
+scottish 2 
+scripture 3 
+scroll 10 15 
+scrubbed 21 
+scruple 19 
+scuse 19 
+scylla 18 
+sea 1 14 15 21 
+sea-monster 15 
+seal 3 9 19 
+sealed 2 11 
+search 1 11 14 
+searchd 15 
+seas 11 14 
+season 21 
+seasond 19 21 
+seasoned 15 
+seasons 19 
+seat 
+seated 2 
+second 10 15 19 
+secret 1 17 
+secretly 6 
+see 1 2 3 5 6 8 9 10 12 14 15 16 17 19 20 21 
+seed 12 
+seek 1 2 9 14 15 19 
+seeks 16 
+seem 5 7 15 
+seeming 15 
+seen 11 12 15 
+sees 21 
+seize 19 
+self 1 12 21 
+self-same 1 
+sell 3 19 
+semblance 17 
+send 17 19 21 
+sense 21 
+senses 14 
+sensible 11 12 
+sent 9 19 20 
+sentence 19 
+sentences 2 
+sepulchre 15 
+serpent 19 
+servant 
+servantgentlemen 14 
+servantmadam 12 
+servants 
+servantthe 2 
+servantwhere 12 
+serve 5 18 
+serve-- 5 
+served 3 18 
+serves 19 
+service 5 19 
+serving-man 2 
+servitor 12 
+set 2 5 10 18 19 21 
+seven 12 
+several 10 
+severd 15 
+shadow 2 15 21 
+shadowd 4 
+shadows 12 
+shaft 1 
+shake 16 
+shall 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+shallow 8 
+shallows 1 
+shalt 1 6 8 19 
+shame 19 21 
+shames 3 9 
+shape 15 
+sharp 19 
+she 1 7 9 11 14 15 18 19 21 
+she-bear 4 
+shed 19 
+shedding 14 
+sheep-- 3 
+shepherd 3 
+shes 5 10 
+shift 2 
+shines 21 
+ship 11 14 
+ships 3 15 21 
+shoe 2 
+shone 21 
+shoot 1 
+shore 15 
+short 5 
+shortly 18 
+shot 1 
+should 1 2 3 5 8 9 12 14 15 18 19 21 
+shoulders 14 
+shouldst 19 
+shout 15 
+show 1 3 5 12 14 15 17 18 19 20 
+showed 14 
+showing 1 
+shows 10 15 19 
+shrew 21 
+shrewd 15 
+shrine 10 
+shrive 2 
+shrug 3 
+shuddering 15 
+shun 18 
+shut 2 8 
+shylock 
+shylocka 
+shylockan 19 
+shylockantonio 3 
+shylockaside 3 
+shylockay 19 
+shylockfor 3 
+shylockgaoler 16 
+shylockgive 19 
+shylockhates 19 
+shylockhere 19 
+shylockhow 14 
+shylocki 3 8 14 19 
+shylockill 16 
+shylockis 19 
+shylockmost 19 
+shylockmy 14 19 
+shylocknay 14 19 
+shylockno 3 19 
+shylocko 3 19 
+shylockoh 3 
+shylockon 19 
+shylockout 14 
+shylocks 6 8 20 
+shylockshall 19 
+shylockshe 14 
+shylockshylock 19 
+shylocksignior 3 
+shylockso 8 
+shylockthe 8 
+shylockthen 3 
+shylockthere 14 
+shylockthese 19 
+shylockthis 3 
+shylockthou 14 
+shylockthree 3 
+shylocktill 19 
+shylocktis 19 
+shylockto 14 19 
+shylockwell 8 
+shylockwhat 8 14 19 
+shylockwhen 3 19 
+shylockwho 8 
+shylockwhy 14 19 
+shylockyes 3 
+shylockyou 14 
+sibylla 2 
+sick 2 15 17 19 21 
+side 1 15 
+sigh 5 16 
+sighd 21 
+sighs 14 
+sign 19 20 
+signd 15 
+signify 7 12 21 
+signior 1 3 5 15 
+signiors 1 
+silence 1 11 18 21 
+silks 1 
+silver 2 3 10 12 
+silverd 12 
+simple 5 15 
+simplicity 3 
+sin 2 6 15 
+since 1 15 16 19 21 
+sinful 10 
+sing 2 21 
+singed 12 
+single 3 
+sings 19 21 
+sins 18 
+sir 1 3 5 7 8 18 19 20 
+sirrah 2 8 18 
+sisters 5 
+sit 1 19 21 
+sits 1 9 
+sitting 14 
+six 8 15 19 
+skilful 3 
+skip 2 
+skipping 5 
+skull 15 
+slander 21 
+slaughter 19 
+slave 19 
+slaves 19 
+slavish 19 
+sleep 1 8 
+sleeps 8 21 
+slew 4 
+slightly 21 
+slink 7 
+slips 14 
+slubber 11 
+smack 5 
+small 5 
+smallest 21 
+smell 3 
+smile 1 
+smiles 2 
+smiling 3 
+smith 2 
+smug 14 
+snail-slow 8 
+snaky 15 
+snore 8 
+snow 15 
+so 1 2 3 4 5 6 7 9 10 11 12 14 15 16 17 18 19 20 21 
+sober 2 5 8 15 
+soft 3 16 19 21 
+soften 19 
+sola 21 
+sold 10 
+soldier 2 
+sole 19 
+solely 4 
+solemnize 15 
+solemnized 12 
+solyman 4 
+some 1 2 5 6 7 8 9 11 12 14 15 17 18 19 21 
+something 1 5 6 15 18 19 
+sometimes 1 
+son 5 19 
+song 15 
+sonties 5 
+soon 6 21 
+sooner 2 
+sooth 1 
+sophy 4 
+sore 21 
+sorry 6 19 
+sort 1 2 21 
+sought 17 
+soul 3 5 9 15 17 19 21 
+souls 17 19 21 
+sound 1 8 15 19 21 
+sounds 15 21 
+spare 16 
+speak 1 3 4 5 7 14 15 16 17 18 19 20 
+speaking 16 
+speaks 1 15 
+speaks-- 1 
+speakst 5 18 
+special 21 
+specify-- 5 
+sped 12 
+speech 12 
+speechless 1 
+speed 11 17 21 
+spend 1 
+spendst 12 
+spent 14 
+spices 1 
+spider 15 
+spirit 5 6 9 15 17 19 21 
+spirits 10 12 19 21 
+spit 3 
+spits 10 
+spoils 21 
+spoke 5 7 14 15 19 
+sponge 2 
+sport 3 15 
+spurn 3 
+spurnd 3 
+squandered 3 
+squealing 8 
+staff 5 8 
+stage 1 
+staind 3 
+stairs 15 
+stake 15 
+stale 8 
+stamp 12 
+stamped 10 
+stand 1 5 9 12 15 18 19 21 
+standing 1 
+stands 19 21 
+standst 19 
+start 5 
+starve 2 
+starved 19 21 
+state 15 16 17 19 21 
+states 19 
+stay 5 9 11 15 19 21 
+stayd 1 9 
+stays 17 19 
+stead 3 19 
+steal 3 4 15 21 
+stealing 21 
+steals 15 
+stephano 
+stephanoa 21 
+stephanonone 21 
+stephanostephano 21 
+steps 17 
+sternest 4 
+stickest 14 
+still 1 3 12 15 17 19 21 
+stillness 1 21 
+sting 19 
+stirring 14 
+stock 19 
+stockish 21 
+stole 19 
+stolen 11 
+stomach 18 
+stomachs 18 
+stone 1 
+stones 11 21 
+stony 19 
+stood 4 15 21 
+stoops 10 
+stop 8 10 14 19 
+store 3 21 
+storm 3 
+straight 1 2 3 7 9 12 
+straind 19 
+strand 1 
+strange 1 11 19 21 
+stranger 3 15 
+strangers 2 16 
+stratagems 21 
+stray 21 
+strayd 10 
+streakd 3 
+stream 1 15 
+street 1 5 7 8 11 14 16 20 
+streets 11 
+strength 21 
+strict 19 
+stride 17 
+strife 6 
+strongly 17 
+strumpet 9 
+stubborn 19 
+stuck 3 21 
+studied 5 
+stuff 1 
+subject 14 21 
+subjects 15 
+substance 15 19 
+substitute 21 
+success 15 
+such 1 2 3 5 11 12 15 17 18 19 21 
+sucking 4 
+suddenly 11 21 
+suffer 19 
+sufferance 3 14 
+sufferd 21 
+suffice 19 
+sufficient 3 
+sugar 15 
+suit 2 3 5 7 10 19 
+suited 2 18 
+suitor 
+suitors 
+sultan 4 
+sum 1 3 15 19 
+summary 15 
+summer 12 14 21 
+summon 15 
+sums 3 
+sun 4 21 
+sunder 15 
+sunny 1 
+sup 7 
+superfluity 2 
+supper 5 6 8 
+supper-time 5 7 
+supply 3 
+supposed 15 
+supposition 3 
+sure 1 5 11 14 15 16 21 
+surety 2 21 
+surfeit 2 15 
+surgeon 19 
+survey 10 
+suspect 3 
+sustain 19 
+swan-like 15 
+sway 19 
+swayd 3 
+sways 19 
+swear 1 2 4 5 8 9 12 14 15 17 19 20 21 
+swearing 20 
+sweat 15 19 
+sweating 15 
+sweet 2 6 9 12 15 18 21 
+sweeter 21 
+sweetest 21 
+sweetly 21 
+swelling 1 
+swift 15 
+swore 1 2 21 
+sworn 5 16 19 21 
+synagogue 14 
+table 5 18 
+table-talk 18 
+taen 12 19 
+tail 5 
+tailor 14 
+tainted 15 19 
+take 1 2 3 4 5 7 10 12 14 15 17 19 21 
+taken 3 19 
+takes 19 
+taking 3 
+tale 19 
+tales 2 
+talk 2 3 5 6 14 21 
+talker 1 
+tall 14 
+tarry 15 20 
+tartars 19 
+taste 5 6 
+taught 19 
+teach 2 12 14 15 19 
+teaches 3 21 
+teaching 2 19 
+tear 19 
+tears 6 11 14 
+tedious 9 10 
+tediousness 6 
+teeth 1 
+tell 1 3 4 5 7 8 9 11 12 14 15 16 17 18 19 20 
+tell-tales 21 
+tells 15 18 
+temper 2 
+temple 4 
+temples 1 
+temporal 19 
+temptation 2 
+tempts 5 
+ten 9 10 15 19 
+tender 19 
+tenor 19 
+tents 21 
+term 15 
+terms 3 4 5 21 
+text 15 
+than 1 2 5 7 8 9 10 12 14 15 17 18 19 21 
+thank 1 4 14 15 17 19 21 
+thanked 5 
+thankfully 1 20 
+thanks 19 
+that 1 2 3 4 5 7 8 9 10 11 12 14 15 16 17 18 19 20 21 
+that--than 19 
+thats 2 3 10 14 
+thaws 4 
+the 
+thee 1 2 3 4 5 6 7 8 11 12 14 15 16 17 18 19 21 
+their 1 2 10 11 12 15 19 21 
+them 1 2 3 9 10 14 15 17 18 19 20 21 
+themselves 9 15 19 
+then 1 2 3 4 5 8 9 10 12 14 15 16 17 18 19 21 
+there 1 2 3 5 6 8 9 10 11 12 14 15 17 18 19 21 
+therefore 1 2 4 8 9 15 16 17 18 19 21 
+therein 15 19 
+theres 15 19 21 
+these 1 2 3 5 6 10 12 14 15 16 17 21 
+they 1 2 5 8 9 10 11 12 14 15 17 18 19 20 21 
+theyll 1 
+thick 21 
+thief 14 
+thieves 9 
+thine 1 3 19 21 
+thing 1 2 3 19 21 
+things 5 9 12 17 18 19 21 
+think 1 2 3 5 10 11 14 17 18 19 21 
+thinks 15 19 
+third 3 10 14 
+third-- 3 
+this 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 19 20 21 
+thisbe 21 
+thither 19 
+thoroughfares 10 
+thoroughly 19 
+those 1 3 15 19 
+thou 1 2 3 5 6 7 8 9 10 12 14 15 16 17 18 19 20 21 
+though 1 5 6 15 19 21 
+thought 1 10 11 19 21 
+thought-- 15 
+thoughts 3 4 9 11 15 17 
+thoult 19 
+thousand 3 14 15 17 19 21 
+threatenest 15 
+threatens 10 
+three 2 3 4 5 10 12 15 19 21 
+threshold 3 
+thrice 3 5 15 19 
+thrift 1 3 
+thrifty 8 
+thrive 3 10 
+throned 19 
+throstle 2 
+through 1 5 15 
+throw 4 
+throws 21 
+thrust 8 
+thus 3 5 9 10 15 17 18 19 
+thwarted 14 
+thy 2 3 5 6 8 9 10 12 14 15 18 19 
+thyself 19 21 
+tickle 14 
+till 1 5 14 15 17 21 
+time 1 2 3 9 11 12 15 17 19 21 
+times 3 9 10 12 15 16 19 
+tis 1 3 7 9 15 19 21 
+title 12 14 
+to 
+to-day 1 17 19 
+to-morrow 16 
+to-night 2 5 7 8 9 20 
+together 8 11 15 17 19 
+told 3 4 10 11 15 19 
+tombs 10 
+tongue 1 5 6 9 15 19 
+tonight 7 
+too 1 2 3 4 5 9 10 11 12 14 15 17 18 19 20 21 
+took 18 21 
+tops 19 
+torch-bearer 7 
+torchbearer 9 
+torchbearers 7 
+torment 15 
+torture 14 
+torturer 15 
+torturest 14 
+tossing 1 
+touch 15 21 
+touchd 19 
+touches 21 
+touching 1 
+toward 17 19 21 
+towards 2 8 
+trade 16 
+trades 17 
+traffickers 1 
+train 4 10 12 19 
+traind 19 
+trains 10 12 
+tranect 17 
+transformed 9 
+treads 11 
+treason 15 
+treasons 21 
+treasure-house 12 
+treble 15 
+trebled 15 
+tree 18 
+trees 21 
+trial 19 
+tribe 3 14 
+tribute 15 19 
+tricks 17 
+tricksy 18 
+tried 10 12 
+trifle 5 19 
+tripolis 3 14 15 
+troilus 21 
+troth 2 
+trouble 2 15 
+troubled 19 
+troy 15 
+troyan 21 
+true 9 12 14 15 17 19 21 
+true-begotten 5 
+truly 18 
+trumpet 21 
+trunks 19 
+trust 1 5 
+trusted 1 21 
+truth 2 5 15 19 21 
+try 1 4 5 
+tubal 3 14 15 
+tubala 
+tubalbut 14 
+tubalhath 14 
+tubali 14 
+tubalone 14 
+tubalthere 14 
+tubalyes 14 
+tubalyour 14 
+tucket 21 
+turks 19 
+turn 3 4 5 14 15 17 18 19 
+turnd 21 
+turned 3 19 
+turning 5 11 
+turns 15 
+turquoise 14 
+twain 15 
+twas 12 
+tween 15 
+twelve 3 
+twelvemonth 17 
+twentieth 19 
+twenty 2 9 15 17 
+twere 1 10 19 21 
+twice 19 
+twill 5 19 
+twinkling 5 
+twixt 15 
+two 1 2 3 7 11 12 14 15 17 18 19 21 
+two-headed 1 
+tyranny 19 
+ugly 15 
+unbated 9 
+unburden 1 
+uncapable 19 
+uncheckd 14 
+uncle 3 
+under 2 7 9 11 19 
+underprizing 15 
+understand 3 11 15 18 19 
+understands 2 
+undertook 7 
+undervalued 1 10 
+undeserved 12 
+undone 14 
+unfeeling 19 
+unfold 12 
+unforfeited 9 
+unfurnishd 15 
+unhallowd 19 
+unhandled 21 
+unhappy 21 
+universal 15 
+unkind 21 
+unknown 1 
+unless 2 7 14 15 19 21 
+unlessond 15 
+unlike 12 
+unlock 12 
+unlockd 1 
+unlocks 10 
+unmannerly 2 
+unpleasantst 15 
+unpractised 15 
+unquiet 15 19 
+unreasonable 21 
+unschoold 15 
+unseal 21 
+unthrift 21 
+unthrifty 3 
+until 15 17 21 
+unto 1 3 4 5 17 19 21 
+untread 9 
+unwearied 15 
+unwillingly 21 
+unworthier 4 
+up 3 5 7 8 14 18 19 
+uphold 21 
+upon 1 2 3 5 8 10 11 14 15 17 18 19 20 21 
+upright 18 19 
+urge 1 21 
+urgest 19 
+urine 19 
+us 1 3 4 7 9 11 14 15 16 17 18 19 21 
+usance 3 
+usances 3 
+use 3 5 15 17 19 
+used 14 
+usual 19 
+usurer 14 
+utter 11 
+uttermost 1 
+v 21 
+vailing 1 
+valiant 4 
+valours 15 
+value 3 10 12 15 19 21 
+valued 19 
+vantage 15 
+variable 11 
+varnishd 8 
+vasty 10 
+vehement 21 
+veiling 15 
+veins 15 
+vendible 1 
+venetian 2 12 15 19 
+venice 
+venture 1 3 15 
+ventures 1 3 15 
+venus 9 
+very 1 2 5 11 14 15 18 19 21 
+vessel 11 15 
+vessels 1 
+vesture 21 
+via 5 
+viands 19 
+vice 15 
+view 10 15 19 
+viibelmont 10 
+viiivenice 11 
+vile 7 8 
+vilely 2 
+villain 3 11 
+villains 3 
+villany 14 
+vinegar 1 
+virgin 10 15 
+virgins 4 
+virtue 15 21 
+virtues 1 
+virtuous 2 
+visages 1 15 
+visit 5 
+visitation 19 
+visited 18 
+vithe 9 
+voice 5 15 17 19 21 
+void 3 19 21 
+voluntary 4 
+vow 17 19 
+vows 21 
+vthe 8 18 
+waft 21 
+wag 19 
+wager 17 18 
+wait 9 
+waiting-maid 
+wake 21 
+wakes 1 
+walk 3 21 
+walks 5 
+wall 12 
+walls 21 
+wands 3 
+want-wit 1 
+wanted 21 
+wanton 15 21 
+wants 3 
+warm 1 
+warmed 14 
+warmth 2 
+warning 10 
+warrant 20 
+warranty 1 
+was 2 3 5 8 10 11 12 14 15 18 19 21 
+waste 1 8 17 
+watch 1 9 21 
+water-rats 3 
+water-thieves 3 
+waters 1 3 5 21 
+watery 10 15 
+waver 19 
+way 1 3 4 5 12 15 21 
+ways 18 21 
+we 1 2 3 5 7 9 10 11 14 15 17 18 19 20 21 
+weak 10 
+weaker 4 
+weakest 19 
+wealth 15 18 19 21 
+wealthy 1 3 21 
+weapons 14 
+wear 5 12 15 17 19 21 
+wearer 12 
+wearies 1 
+weather 12 
+wedding-day 15 
+wedlock 21 
+wednesday 3 
+weeping 2 
+weigh 10 19 
+weight 15 19 
+welcome 2 10 15 19 20 21 
+well 1 2 3 5 6 8 10 11 12 14 15 16 17 18 19 20 21 
+well-- 15 
+well-deserving 19 
+well-won 3 
+wench 5 
+went 11 
+wept 14 
+were 1 2 3 5 8 10 11 12 14 18 19 21 
+wert 17 
+wether 19 
+what 1 2 3 5 6 7 8 9 10 11 12 14 15 17 18 19 21 
+whats 7 14 15 19 21 
+wheat 1 
+when 1 2 3 4 5 8 9 11 12 14 15 17 18 19 21 
+where 1 2 3 4 5 9 14 15 19 20 21 
+whereby 19 
+wherefore 8 
+wherein 1 12 19 21 
+whereof 1 2 19 
+whet 19 
+whether 5 9 14 15 19 21 
+which 1 2 3 4 5 9 10 11 12 15 17 19 20 21 
+while 4 5 15 18 21 
+whiles 2 
+whilst 15 19 21 
+whispering 3 
+white 2 15 
+whiter 7 
+who 1 2 3 4 5 6 9 10 11 12 14 15 19 
+whole 1 17 18 
+whom 1 2 4 12 15 17 19 21 
+whos 9 
+whose 1 3 4 10 15 17 19 21 
+why 1 2 3 5 8 9 10 12 14 18 19 21 
+wide 1 10 
+widows 5 15 
+wife 4 5 6 12 15 18 19 21 
+wifes 19 21 
+wild 5 15 21 
+wild-cat 8 
+wilderness 14 
+wilds 10 
+wilful 1 
+will 1 2 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21 
+willow 21 
+wilt 3 6 12 14 18 19 
+win 4 15 
+wind 1 9 15 21 
+window 8 
+winds 1 3 
+wine 1 2 14 
+wings 1 14 
+wins 4 
+winter 14 
+wis 12 
+wisdom 1 12 19 
+wise 1 3 5 9 10 19 
+wisely 5 
+wisest 15 
+wish 15 17 19 21 
+wishd 11 
+wishes 15 
+wit 4 12 18 19 
+wit-snapper 18 
+with 
+withal 10 14 15 17 19 
+within 1 2 3 9 10 17 19 21 
+without 2 8 12 14 19 21 
+witness 3 9 21 
+wive 2 
+wives 5 9 15 
+wiving 12 
+wo 21 
+wolf 19 
+wolvish 19 
+woman 5 14 18 21 
+womans 5 
+women 18 
+won 2 4 15 
+wonder 16 
+wondrous 1 11 
+wont 8 9 14 
+woo 12 
+wooer 2 
+wooers 2 
+wooing 15 
+woollen 19 
+woolly 3 
+word 1 2 14 15 18 19 21 
+words 8 15 17 18 19 21 
+work 3 17 
+works 15 
+world 1 2 10 11 15 18 19 21 
+worms 10 
+worse 2 10 15 
+worship 3 5 8 
+worshipped 5 
+worships 5 
+worst 2 
+worth 1 8 9 
+worthier 1 
+worthiness 21 
+worthless 12 
+worthy 2 19 21 
+would 1 2 3 4 5 6 8 9 11 12 14 15 17 19 20 21 
+wouldst 5 19 
+wound 15 
+wounds 19 
+woven 1 15 
+wreck 14 
+wrecked 14 
+wren 21 
+wrest 19 
+wretch 19 
+wretched 19 
+wrinkled 19 
+wrinkles 1 
+writ 7 
+write 19 
+writes 19 
+writing 10 21 
+written 10 
+wrong 1 3 4 5 14 15 19 21 
+wroth 12 
+wrought 3 
+wrung 11 
+wry-neckd 8 
+ye 1 3 18 
+yea 4 19 
+year 1 8 
+years 1 14 19 
+yes 2 
+yesterday 11 
+yet 2 3 4 5 7 8 10 11 12 14 15 16 17 19 21 
+yield 4 16 19 
+yoke 17 
+yon 15 
+yonder 21 
+you 1 2 3 4 5 7 8 9 10 11 12 14 15 17 18 19 20 21 
+you-- 5 
+youll 3 15 19 
+young 2 4 5 8 10 12 15 17 19 21 
+young-eyed 21 
+younker 9 
+your 1 2 3 4 5 7 8 9 10 11 12 14 15 17 18 19 20 21 
+yours 1 9 10 15 19 21 
+yourself 1 4 15 
+youth 1 2 15 17 19 20 21 
+youthful 21 
+zeal 21 
